@@ -1,6 +1,6 @@
 import votingApp_img from './Voting app image.jpg'
 import animatedWeb_img from './animated_web_img.jpg';
-import JobPortal from './Get&Post Image.png';
+import JobPortal from './getandPost.png';
 import Portfolio_img from './Portfolio_me_img.png'
 import code_img2 from './coding_img2.png';
 import code_img3 from './coding_img3.png';
