@@ -169,6 +169,16 @@ export const projectData = [
     text: "Developed a secure backend for online voting system, handling user authentication, voting logic, and data storage efficiently",
   },
   {
+    name: "Portfolio",
+    title: "Tech Stack",
+    techStack: ['react', 'tailwind', 'javascript'],
+    image: Portfolio_img,
+    github: github_img,
+    github_src: "https://github.com/Praphull2005/Portfolio_PR",
+    link_src: "praphull-rahangdale.netlify.app",
+    text: "Responsive portfolio website showcasing projects, skills and experience with animations",
+  },
+  {
     name: "Animated Website",
     title: "Tech Stack",
     techStack: ['html', 'css', 'javascript'],
@@ -179,15 +189,6 @@ export const projectData = [
     text: "A visually engaging website showcasing smooth animations and responsive design.Built using HTML, CSS, and JavaScript to demonstrate frontend interactivity.",
   },
 
-  {
-    name: "Portfolio",
-    title: "Tech Stack",
-    techStack: ['react', 'tailwind', 'javascript'],
-    image: Portfolio_img,
-    github: github_img,
-    github_src: "https://github.com/Praphull2005/Portolio",
-    link_src: "https://praphull.netlify.app/",
-    text: "Responsive portfolio website showcasing projects, skills and experience with animations",
-  },
+ 
 
 ];
